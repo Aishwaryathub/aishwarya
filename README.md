@@ -89,6 +89,7 @@ sudo make install
 ```
 sudo apt-get install iverilog
 ```
+![WhatsApp Image 2024-02-21 at 9 14 30 PM](https://github.com/Aishwaryathub/aishwarya/assets/160737960/3f1b3468-82f3-48e8-8cfe-aa6b2826eb84)
 
 )
 
@@ -97,5 +98,6 @@ sudo apt-get install iverilog
 ``` sudo apt-get install gtkwave ```
 
 
+![WhatsApp Image 2024-02-21 at 9 10 02 PM](https://github.com/Aishwaryathub/aishwarya/assets/160737960/2d71a686-9738-404e-91a3-4f57aa8dac72)
 
 

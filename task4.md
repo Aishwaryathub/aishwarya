@@ -1,19 +1,35 @@
-**Meeting Held on: 27/02/2024**
+**Execution of Task 4**
 
-**The C code should undergo the simulation of normal GCC X86 Compiler and riscv compiler** (**SPIKE Simulation**) 
 
-**AS PER THE REQUIREMENT OUTPUT OF GCC (F1) SHOULD BE EQUAL = TO OUTPUT OF RISCV GCC (F2)**
+**Use the following instructions to get the gtkwave window**
 
-![WhatsApp Image 2024-02-28 at 8 42 18 PM](https://github.com/Aishwaryathub/aishwarya/assets/160737960/a1ea4faa-ea49-40e0-84cb-31236c23d73c)
 
-Step - 1: To Run the code in the normal GCC Compiler To compile the code: gcc sum1ton.c -o sum1ton To Get the output use "./a.out" : Here the output finds to be -Sum of numbers from 1 to 50 is 125250
+ls - to check the contents of the folder
 
-Step - 2: To Run the code in the RISC-V GCC Compiler
+![WhatsApp Image 2024-03-20 at 6 17 17 PM](https://github.com/Aishwaryathub/aishwarya/assets/160737960/139bc64c-d436-42c0-a22b-dab7086d1051)
 
-To compile the code: riscv64-unknown-elf-gcc -o sum1ton sum1ton.c To Get the output use "./a.out" : Here the output finds to be -Sum of numbers from 1 to 50 is 125250
+**after running the command
+gtkwave aishwaryalaxmi.vcd**
 
-![WhatsApp Image 2024-02-28 at 9 51 17 PM](https://github.com/Aishwaryathub/aishwarya/assets/160737960/7425946b-9fa8-4c56-8e64-78985e3993bb)
+![WhatsApp Image 2024-03-20 at 6 17 17 PM](https://github.com/Aishwaryathub/aishwarya/assets/160737960/3adcf6ec-bc2c-430d-baff-07200560f31a)
 
-![WhatsApp Image 2024-02-28 at 9 53 47 PM](https://github.com/Aishwaryathub/aishwarya/assets/160737960/8ad3b4c2-d448-489f-a0f0-d315c54c7829)
+**Lets move on to the execution Stage with Waveforms obtained for running the gtkwave abdul.vcd**
 
-![WhatsApp Image 2024-02-28 at 9 57 33 PM](https://github.com/Aishwaryathub/aishwarya/assets/160737960/fdaf8ca7-eeff-4c71-b0e8-bb71956e979b)
+
+1. When instantiated module is selected we get all the registers and wires as shown 
+
+![a](https://github.com/Aishwaryathub/aishwarya/assets/160737960/51e4859a-5a34-48d2-b43d-577b8b7ee54c)
+
+2. Upon adding few signals the waves can be see as shown in the below figure
+
+![WhatsApp Image 2024-03-20 at 6 17 17 PM](https://github.com/Aishwaryathub/aishwarya/assets/160737960/c0022545-3203-4759-bc46-9a6c8884894c)
+
+we will take output of some operations
+
+![WhatsApp Image 2024-03-20 at 6 17 17 PM](https://github.com/Aishwaryathub/aishwarya/assets/160737960/384a6bb2-809c-4a41-81e1-684cb319e762)
+
+![WhatsApp Image 2024-03-20 at 6 40 35 PM](https://github.com/Aishwaryathub/aishwarya/assets/160737960/c2f2dcc0-ee5a-4dda-89c5-d721b679ac99)
+
+![WhatsApp Image 2024-03-20 at 6 17 17 PM](https://github.com/Aishwaryathub/aishwarya/assets/160737960/eb2bbc34-6409-42ea-a788-bbeed488099e)
+
+![WhatsApp Image 2024-03-20 at 6 40 35 PM](https://github.com/Aishwaryathub/aishwarya/assets/160737960/5c0c32e9-f665-4bce-8636-014cbbc6c433)
